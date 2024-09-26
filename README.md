@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh-pawar007" alt="shubh-pawar007" /></a> </p>
 
 -# 💫 About Me:
-🌱 I’m currently learning FullStack Web Development<br><br>- 👨‍💻 All of my projects are available at [https://my-portfolio2-psi.vercel.app/](https://my-portfolio2-psi.vercel.app/)<br><br>- 📝 I regularly write articles on [https://medium.com/@shubhampawar242767](https://medium.com/@shubhampawar242767)<br><br>- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux**<br><br>- 📫 How to reach me **shubhampawar242767@gmail.com**
+🌱 I’m SDE-1 at Ajnalens, mostly working on Frontend <br><br>- 👨‍💻 All of my projects are available at [https://my-portfolio2-psi.vercel.app/](https://my-portfolio2-psi.vercel.app/)<br><br>- 📝 I regularly write articles on [https://medium.com/@shubhampawar242767](https://medium.com/@shubhampawar242767)<br><br>- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux**<br><br>- 📫 How to reach me **shubhampawar242767@gmail.com**
 
 
 ## 🌐 Socials:
