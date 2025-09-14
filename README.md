@@ -1,11 +1,55 @@
 <h1 align="center">Hi 👋, I'm Shubham Pawar</h1>
-<h3 align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. </h3>
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh-pawar007" alt="shubh-pawar007" /></a> </p>
+<h3 align="center">SDE-2 at Ajnalens | Frontend & Full-Stack Developer 🚀</h3>
+<p align="center">
+  Passionate about building scalable, high-performance web applications and integrating AI into real-world products.  
+  Skilled in React, TypeScript, Next.js, Python (RAG), and full-stack development.  
+</p>
 
--# 💫 About Me:
-🌱 I’m SDE-1 at Ajnalens, mostly working on Frontend <br><br>- 👨‍💻 All of my projects are available at [https://my-portfolio2-psi.vercel.app/](https://my-portfolio2-psi.vercel.app/)<br><br>- 📝 I regularly write articles on [https://medium.com/@shubhampawar242767](https://medium.com/@shubhampawar242767)<br><br>- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux**<br><br>- 📫 How to reach me **shubhampawar242767@gmail.com**
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="100%"/>
 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubh-pawar007&theme=flat&margin-w=10" alt="shubh-pawar007" />
+  </a> 
+</p>
+
+---
+
+## 💫 About Me:
+- 🌱 Currently working as **SDE-2 at Ajnalens**, building AI-driven web platforms.  
+- 🧑‍💻 Portfolio: [https://my-portfolio2-psi.vercel.app/](https://my-portfolio2-psi.vercel.app/)  
+- 📝 I share my learnings on [Medium](https://medium.com/@shubhampawar242767).  
+- 💬 Ask me about **React, TypeScript, Next.js, Tailwind, Node.js, Express.js, PostgreSQL, MongoDB, Python (RAG), Generative AI**  
+- 📫 Reach me at **shubhampawar242767@gmail.com**
+
+---
+
+## 🚀 Tech Stack:
+**Frontend:** React.js, TypeScript, Next.js, TailwindCSS, Redux, Responsive Design  
+**Backend:** Node.js, Express.js, REST APIs, WebSockets  
+**Databases:** PostgreSQL, MongoDB  
+**AI/ML:** Python (RAG pipelines, Generative AI, Gemini AI)  
+**Others:** Git, Chart.js, Docker, Agile/Scrum  
+
+---
+
+## 🔥 Projects:
+### 🔹 AI Admin Panel Dashboard  
+- Built a scalable dashboard for managing **AI backend prompts** and **model behavior tuning**.  
+- Tech: React, TypeScript, Next.js, Tailwind, Node.js, Express.js, PostgreSQL.  
+
+### 🔹 Live Video AI Answering (Gemini + WebSocket)  
+- Developed a **real-time AI answering system** with Gemini AI for live video Q&A.  
+- Implemented **WebSocket-based low-latency streaming**.  
+- Tech: React, Next.js, TypeScript, Node.js, Gemini AI.  
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh-pawar007&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-pawar007&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/shubham-pawar-2b7a30124) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Shubhampawar) 
