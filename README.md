@@ -17,7 +17,7 @@
 
 ## 💫 About Me:
 - 🌱 Currently working as **SDE-2 at Ajnalens**, building AI-driven web platforms.  
-- 🧑‍💻 Portfolio: [https://my-portfolio2-psi.vercel.app/](https://my-portfolio2-psi.vercel.app/)  
+- 🧑‍💻 Portfolio: [[https://my-portfolio2-psi.vercel.app/](https://my-portfolio2-psi.vercel.app/](https://shubham-portfolio-coral.vercel.app/))  
 - 📝 I share my learnings on [Medium](https://medium.com/@shubhampawar242767).  
 - 💬 Ask me about **React, TypeScript, Next.js, Tailwind, Node.js, Express.js, PostgreSQL, MongoDB, Python (RAG), Generative AI**  
 - 📫 Reach me at **shubhampawar242767@gmail.com**
